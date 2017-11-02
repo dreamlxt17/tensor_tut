@@ -4,3 +4,4 @@ import scipy
 import sklearn
 import tensorflow
 import os
+import tqdm
